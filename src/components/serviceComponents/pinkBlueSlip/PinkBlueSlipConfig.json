@@ -1,0 +1,45 @@
+{
+  "Hero": {
+    "Title": "Pink and Blue Slips",
+    "Text": [
+      "Cleveland Prestige is a government approved pink & blue slip provider.",
+      "Our skilled technicians perform the necessary checks on your vehicle to ensure it is in roadworthy condition.",
+      "If any issues are discovered, we are able to conduct the required repairs in our workshop.",
+      "That means you can get your car back on the road as soon as possible!"
+    ],
+    "Button": "LEARN MORE"
+  },
+  "Features": {
+    "Title": "Cleveland Prestige checks the following with utmost care and diligence:",
+    "Features": [
+      "Tyre quality annd depth",
+      "Vehicle body condition",
+      "Working electrics",
+      "Engine/suspension/driveline condition",
+      "Seatbelt condition",
+      "Braking effciency test"
+    ],
+    "Button": "MAKE A BOOKING"
+  },
+  "FAQ": {
+      "Title": "Pink and Blue Slips FAQ",
+      "Questions": [
+          {
+              "Question": "WHAT'S THE DIFFERENCE BETWEEN A 'CUT AND POLISH' AND A PAINT CORRECTION?",
+              "Answer": "A \"cut and polish\" is a process that removes surface imperfections and enhances shine, while a paint correction involves more extensive measures to remove deeper scratches, swirl marks, and other defects from the paintwork."
+          },
+          {
+              "Question": "WHY IS IT IMPORTANT TO DETAIL YOUR CAR?",
+              "Answer": "It is important to detail your car to maintain its appearance, protect the paintwork, preserve its value, and create a more enjoyable driving experience."
+          },
+          {
+              "Question": "HOW LONG DOES A PAINT CORRECTION TAKE?",
+              "Answer": "The duration of a paint correction can vary depending on the extent of the damage and the size of the vehicle, but it typically takes several hours to a few days to complete."
+          },
+          {
+              "Question": "HOW MUCH DOES A PAINT JOB COST?",
+              "Answer": "The cost of a paint job can vary depending on factors such as the size of the vehicle, desired finish, and any additional repairs needed, but we make sure to provide you with the best prices."
+          }
+      ]
+  }
+}

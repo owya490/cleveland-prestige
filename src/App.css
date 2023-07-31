@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap");
+@font-face {
+    font-family: "Felix";
+    src: url(./resources/fonts/Felix_Titling_Regular.ttf) format("ttf");
+}
+
+@font-face {
+    font-family: "Felix Titling";
+    src: url("//db.onlinewebfonts.com/t/0016f77f50d636d6eb6336a8a9d5d3d5.eot");
+    src: url("//db.onlinewebfonts.com/t/0016f77f50d636d6eb6336a8a9d5d3d5.eot?#iefix")
+            format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/0016f77f50d636d6eb6336a8a9d5d3d5.woff2")
+            format("woff2"),
+        url("//db.onlinewebfonts.com/t/0016f77f50d636d6eb6336a8a9d5d3d5.woff")
+            format("woff"),
+        url("//db.onlinewebfonts.com/t/0016f77f50d636d6eb6336a8a9d5d3d5.ttf")
+            format("truetype"),
+        url("//db.onlinewebfonts.com/t/0016f77f50d636d6eb6336a8a9d5d3d5.svg#Felix Titling")
+            format("svg");
+}
+
+@font-face {
+    font-family: "Rajdhani";
+    src: url("https://fonts.googleapis.com/css2?family=Rajdhani&display=swap");
+}

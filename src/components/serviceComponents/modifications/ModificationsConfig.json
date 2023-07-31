@@ -1,0 +1,45 @@
+{
+    "Hero": {
+        "Title": "Modifications",
+        "Text": [
+            "We understand how important it can be for a vehicle to stand out.",
+            "There’s no better way to do this than to choose from a vast range of OEM and aftermarket modifications.",
+            "With so many modifications ranging from exhausts to body kits, we’re sure you’ll find something that will set your vehicle apart.",
+            "Cleveland Prestige is able to source and install your desired modifications in our workshop."
+        ],
+        "Button": "LEARN MORE"
+    },
+    "Features": {
+        "Title": "Modifications available at Cleveland Prestige:",
+        "Features": [
+            "Exhaust",
+            "Body kits",
+            "Intake systems",
+            "Suspension components",
+            "Wheels and Tyres",
+            "Interior Modifications"
+        ],
+        "Button": "MAKE A BOOKING"
+    },
+    "FAQ": {
+        "Title": "Modifications FAQ",
+        "Questions": [
+            {
+                "Question": "WHAT'S THE DIFFERENCE BETWEEN A 'CUT AND POLISH' AND A PAINT CORRECTION?",
+                "Answer": "A \"cut and polish\" is a process that removes surface imperfections and enhances shine, while a paint correction involves more extensive measures to remove deeper scratches, swirl marks, and other defects from the paintwork."
+            },
+            {
+                "Question": "WHY IS IT IMPORTANT TO DETAIL YOUR CAR?",
+                "Answer": "It is important to detail your car to maintain its appearance, protect the paintwork, preserve its value, and create a more enjoyable driving experience."
+            },
+            {
+                "Question": "HOW LONG DOES A PAINT CORRECTION TAKE?",
+                "Answer": "The duration of a paint correction can vary depending on the extent of the damage and the size of the vehicle, but it typically takes several hours to a few days to complete."
+            },
+            {
+                "Question": "HOW MUCH DOES A PAINT JOB COST?",
+                "Answer": "The cost of a paint job can vary depending on factors such as the size of the vehicle, desired finish, and any additional repairs needed, but we make sure to provide you with the best prices."
+            }
+        ]
+    }
+}

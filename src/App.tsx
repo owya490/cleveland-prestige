@@ -16,43 +16,49 @@ import MechanicalAndElectricalRepairs from "./pages/servicePages/MechanicalAndEl
 import GoogleReviewCarousel from "./components/GoogleReviewCarousel";
 
 function App() {
-  return (
-    <div className="bg-black">
-      <Navbar />
-      <div className="space-y-32">
-        <BrowserRouter>
-          <Routes>
-            <Route path="/" element={<HomePage />}></Route>
-            <Route path="/about" element={<HomePage />}></Route>
-            <Route path="/contact" element={<ContactPage />}></Route>
-            <Route path="/services/detailing" element={<Detailing />}></Route>
-            <Route path="/services/servicing" element={<Servicing />}></Route>
-            <Route
-              path="/services/modifications"
-              element={<Modifications />}
-            ></Route>
-            <Route
-              path="/services/pink-blue-slip"
-              element={<PinkBlueSlip />}
-            ></Route>
-            <Route
-              path="/services/exterior-body-work"
-              element={<ExteriorBodyWork />}
-            ></Route>
-            <Route
-              path="/services/repairs"
-              element={<MechanicalAndElectricalRepairs />}
-            ></Route>
-          </Routes>
-        </BrowserRouter>
-        <GoogleReviewCarousel />
-        <GalleryCarousel />
-      </div>
-      <div className="mt-10">
-        <Footer />
-      </div>
-    </div>
-  );
+    return (
+        <div className="bg-black">
+            <Navbar />
+            <div className="space-y-32">
+                <BrowserRouter>
+                    <Routes>
+                        <Route path="/" element={<HomePage />}></Route>
+                        <Route path="about" element={<HomePage />}></Route>
+                        <Route path="contact" element={<ContactPage />}></Route>
+                        <Route
+                            path="services/detailing"
+                            element={<Detailing />}
+                        ></Route>
+                        <Route
+                            path="services/servicing"
+                            element={<Servicing />}
+                        ></Route>
+                        <Route
+                            path="/services/modifications"
+                            element={<Modifications />}
+                        ></Route>
+                        <Route
+                            path="/services/pink-blue-slip"
+                            element={<PinkBlueSlip />}
+                        ></Route>
+                        <Route
+                            path="/services/exterior-body-work"
+                            element={<ExteriorBodyWork />}
+                        ></Route>
+                        <Route
+                            path="/services/repairs"
+                            element={<MechanicalAndElectricalRepairs />}
+                        ></Route>
+                    </Routes>
+                </BrowserRouter>
+                <GoogleReviewCarousel />
+                <GalleryCarousel />
+            </div>
+            <div className="mt-10">
+                <Footer />
+            </div>
+        </div>
+    );
 }
 
 export default App;
